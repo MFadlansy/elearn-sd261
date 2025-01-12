@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Sistem Informasi Sekolah
 
@@ -100,3 +101,6 @@ Siswa
 - Fitur e-rapot
 - Fitur nilai tugas
 
+=======
+# elearn-sd
+>>>>>>> 605ddc6059ddcab3938869881fe49bfccfa46b20
